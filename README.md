@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bishweshwar Shome (@bshome19)
+- 👋 Hi, I’m Bishweshwar Shome. 
 - 👀 I’m interested in Flutter and Python.
 - 🌱 I’m currently learning Getx.
 - 💞️ I’m looking to collaborate on open source Flutter project
