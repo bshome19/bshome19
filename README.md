@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning [Go](https://go.dev/) and [Julia](https://julialang.org/).
 - 📫 How to reach me: 
   * [LinkedIn](https://www.linkedin.com/in/bshome19/)
-  * [Email](bshome19@gmail.com)
+  * Email: bshome19@gmail.com
 <!--
 **bshome19/bshome19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
