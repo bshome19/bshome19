@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- My name is Bishweshwar Shome
+- I am a Python developer, with experience in PyQt and Flask.
+- 🔭 I’m currently working on Python and Go.
+- 🌱 I’m currently learning Go and Julia.
+- 📫 How to reach me: 
 <!--
 **bshome19/bshome19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
