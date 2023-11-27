@@ -1,6 +1,6 @@
 ### Hi there 👋
 - My name is Bishweshwar Shome
-- 🔭 I am a Software Engineer, expertise in [Python](https://www.python.org/ "Python") and [Go](https://go.dev/).
+- 🔭 I am a Software Engineer, having experience in [Python](https://www.python.org/ "Python") and [Go](https://go.dev/).
   I have worked in [PyQt](https://pypi.org/project/PyQt5/), [Flask](https://flask.palletsprojects.com/en/2.2.x/), [Gin](https://gin-gonic.com/), and [Fiber](https://gofiber.io/).
 - 🌱 Currently I’m learning [Go](https://go.dev/) and [Julia](https://julialang.org/).
 - 📫 How to reach me: 
