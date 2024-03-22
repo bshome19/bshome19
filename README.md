@@ -1,8 +1,8 @@
 ### Hi there 👋
 - My name is Bishweshwar Shome
-- 🔭 I am a Software Engineer, having experience in [Python](https://www.python.org/ "Python") and [Go](https://go.dev/).
-  I have worked in [PyQt](https://pypi.org/project/PyQt5/), [Flask](https://flask.palletsprojects.com/en/2.2.x/), [Gin](https://gin-gonic.com/), and [Fiber](https://gofiber.io/).
-- 🌱 Currently I’m learning [Go](https://go.dev/) and [Julia](https://julialang.org/).
+- 🔭 I am a Software Engineer, having experience in [Go](https://go.dev/) and [Python](https://www.python.org/ "Python").
+  I have worked in [Gin](https://gin-gonic.com/), [Fiber](https://gofiber.io/), [Goa](https://goa.design) frameworks, and in [Flask](https://flask.palletsprojects.com/en/2.2.x/), and [PyQt](https://pypi.org/project/PyQt5/) as well.
+- 🌱 I’m learning [Julia](https://julialang.org/).
 - 📫 How to reach me: 
   * [LinkedIn](https://www.linkedin.com/in/bshome19/)
   * Email: bshome19@gmail.com
