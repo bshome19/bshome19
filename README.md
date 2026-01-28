@@ -2,7 +2,7 @@
 - My name is Bishweshwar Shome
 - 🔭 I am a Software Engineer, having experience in [Go](https://go.dev/) and [Python](https://www.python.org/ "Python").
   I have worked in [Gin](https://gin-gonic.com/), [Fiber](https://gofiber.io/), [Goa](https://goa.design) frameworks, and in [Flask](https://flask.palletsprojects.com/en/2.2.x/), and [PyQt](https://pypi.org/project/PyQt5/) as well.
-- 🌱 I’m learning [Rust](https://rust-lang.org/) [Julia](https://julialang.org/).
+- 🌱 I’m learning [Rust](https://rust-lang.org/) and [Julia](https://julialang.org/).
 - 📫 How to reach me: 
   * [LinkedIn](https://www.linkedin.com/in/bshome19/)
   * Email: bshome19@gmail.com
